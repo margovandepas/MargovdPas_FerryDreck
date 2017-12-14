@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>AJAX Margo zie je dit?</title>
+    <title>AJAX Margo zie je dit? Haha</title>
 </head>
 
 <body>
